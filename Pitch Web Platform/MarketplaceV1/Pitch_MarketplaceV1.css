@@ -1,0 +1,1813 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: Pitch_MarketplaceV1;
+}
+#Pitch_MarketplaceV1 * {
+	margin: 0;
+	padding: 0;
+}
+#Pitch_MarketplaceV1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1519px;
+	height: 1731px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Pitch MarketplaceV1;
+	--web-view-id: Pitch_MarketplaceV1;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+#Path_344 {
+	fill: rgba(255,52,52,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_344 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1519px;
+	height: 83.801px;
+}
+#Pitch_ {
+	position: absolute;
+	left: 67.5px;
+	top: 18.5px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(255,255,255,1);
+}
+#Path_2 {
+	fill: rgba(255,52,52,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 245.169px;
+	left: 61.457px;
+	width: 1395.542px;
+	height: 393.036px;
+}
+#Rectangle_749 {
+	fill: rgba(255,52,52,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_749 {
+	position: absolute;
+	overflow: visible;
+	width: 1519px;
+	height: 101px;
+	left: 0px;
+	top: 1629.912px;
+}
+#Terms_of_Service_____Privacy_P {
+	position: absolute;
+	left: 25px;
+	top: 1658px;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#See_More {
+	position: absolute;
+	left: 1138px;
+	top: 993px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+#Rectangle_750 {
+	fill: rgba(243,243,243,1);
+	stroke: rgb(243, 243, 243);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_750 {
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	height: 55px;
+	left: 329px;
+	top: 846.608px;
+}
+#Search {
+	position: absolute;
+	left: 438.5px;
+	top: 859.5px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Pitch_Picks_of_the_day {
+	position: absolute;
+	left: 68px;
+	top: 121px;
+	overflow: visible;
+	width: 705px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#All_Products {
+	position: absolute;
+	left: 299.5px;
+	top: 976.5px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Ellipse_45 {
+	fill: rgba(255,255,255,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_45 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 349px;
+	top: 855.392px;
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	top: 882.101px;
+	left: 372.5px;
+	width: 9.785px;
+	height: 12.02px;
+}
+#Power_Your_Business {
+	position: absolute;
+	left: 532px;
+	top: 737px;
+	overflow: visible;
+	width: 455px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Build_your_business_with_the_t {
+	position: absolute;
+	left: 568px;
+	top: 797px;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Product {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 288px;
+	top: 1031.741px;
+	overflow: visible;
+}
+#BG {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Product_name {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart {
+	fill: rgba(255,255,255,1);
+}
+.Heart {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_2 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 521px;
+	top: 1031.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_5 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_3 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Product_name_A10_Text_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_4 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_6 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_13 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_14 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_4 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_4 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_3 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_3 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_3 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 754px;
+	top: 1031.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_7 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_5 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Product_name_A10_Text_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_6 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_8 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_16 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_17 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_5 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_5 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_4 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_4 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_4 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 987px;
+	top: 1031.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_9 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_7 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Product_name_A10_Text_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_8 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_10 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_19 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_20 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_6 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_6 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_5 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_5 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#All_Services {
+	position: absolute;
+	left: 299.5px;
+	top: 1277.5px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Product_A10_SymbolInstance_5 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 288px;
+	top: 1332.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_11 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_9 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Service_name {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_10 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_12 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_23 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Service_type {
+	position: absolute;
+	left: 4.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_7 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_7 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_6 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_6 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#See_More_A10_Text_25 {
+	position: absolute;
+	left: 1138px;
+	top: 1291px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+#Product_A10_SymbolInstance_6 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 521px;
+	top: 1332.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_13 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_11 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Service_name_A10_Text_26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_12 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_14 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_27 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Service_type_A10_Text_28 {
+	position: absolute;
+	left: 4.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_8 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_8 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_7 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_7 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_7 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 754px;
+	top: 1332.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_15 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_13 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Service_name_A10_Text_29 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_14 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_16 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_30 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Service_type_A10_Text_31 {
+	position: absolute;
+	left: 4.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_9 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_9 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_8 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_8 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_8 {
+	position: absolute;
+	width: 232.834px;
+	height: 223.259px;
+	left: 987px;
+	top: 1332.741px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_17 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 228.834px;
+	height: 223.259px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_15 {
+	position: absolute;
+	width: 179.929px;
+	height: 30.713px;
+	left: 23.904px;
+	top: 161.259px;
+	overflow: visible;
+}
+#Service_name_A10_Text_32 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_16 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 113.217px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_18 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_33 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Service_type_A10_Text_34 {
+	position: absolute;
+	left: 4.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_10 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_10 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 179.834px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_9 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_9 {
+	overflow: visible;
+	position: absolute;
+	top: 147.759px;
+	left: 9.5px;
+	width: 210px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_9 {
+	position: absolute;
+	width: 278.93px;
+	height: 265.268px;
+	left: 137px;
+	top: 308.732px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_19 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 274.93px;
+	height: 265.268px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_17 {
+	position: absolute;
+	width: 226.025px;
+	height: 30.713px;
+	left: 24.904px;
+	top: 194.268px;
+	overflow: visible;
+}
+#Product_name_A10_Text_35 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_18 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 159.313px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_20 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_36 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_37 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_11 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_11 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 225.93px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_10 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_10 {
+	overflow: visible;
+	position: absolute;
+	top: 175.768px;
+	left: 10.5px;
+	width: 255px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_10 {
+	position: absolute;
+	width: 278.93px;
+	height: 265.268px;
+	left: 455px;
+	top: 308.732px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_21 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 274.93px;
+	height: 265.268px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_19 {
+	position: absolute;
+	width: 226.025px;
+	height: 30.713px;
+	left: 24.904px;
+	top: 194.268px;
+	overflow: visible;
+}
+#Product_name_A10_Text_38 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_20 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 159.313px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_22 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_39 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_40 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_12 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_12 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 225.93px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_11 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_11 {
+	overflow: visible;
+	position: absolute;
+	top: 175.768px;
+	left: 10.5px;
+	width: 255px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_11 {
+	position: absolute;
+	width: 278.93px;
+	height: 265.268px;
+	left: 773px;
+	top: 308.732px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_23 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 274.93px;
+	height: 265.268px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_21 {
+	position: absolute;
+	width: 226.025px;
+	height: 30.713px;
+	left: 24.904px;
+	top: 194.268px;
+	overflow: visible;
+}
+#Product_name_A10_Text_41 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_22 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 159.313px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_24 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_42 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_43 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_13 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_13 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 225.93px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_12 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_12 {
+	overflow: visible;
+	position: absolute;
+	top: 175.768px;
+	left: 10.5px;
+	width: 255px;
+	height: 1px;
+}
+#Product_A10_SymbolInstance_12 {
+	position: absolute;
+	width: 278.93px;
+	height: 265.268px;
+	left: 1091px;
+	top: 308.732px;
+	overflow: visible;
+}
+#BG_A10_Rectangle_25 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_A10_Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 274.93px;
+	height: 265.268px;
+	left: 9px;
+	top: 7px;
+}
+#product_detail_A10_Group_23 {
+	position: absolute;
+	width: 226.025px;
+	height: 30.713px;
+	left: 24.904px;
+	top: 194.268px;
+	overflow: visible;
+}
+#Product_name_A10_Text_44 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(77,79,92,1);
+}
+#btn_buy_A10_Group_24 {
+	position: absolute;
+	width: 66.712px;
+	height: 25.863px;
+	left: 159.313px;
+	top: 3.713px;
+	overflow: visible;
+}
+#Rectangle_166_A10_Rectangle_26 {
+	fill: rgba(255,52,52,1);
+}
+.Rectangle_166_A10_Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 66.712px;
+	height: 25.863px;
+	left: 0px;
+	top: 0px;
+}
+#View_A10_Text_45 {
+	position: absolute;
+	left: 24.604px;
+	top: 7.5px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.02px;
+}
+#Product_type_A10_Text_46 {
+	position: absolute;
+	left: 3.096px;
+	top: 19.713px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.02px;
+}
+#Heart_A10_Path_14 {
+	fill: rgba(255,255,255,1);
+}
+.Heart_A10_Path_14 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 27px;
+	left: 225.93px;
+	width: 24px;
+	height: 20px;
+}
+#Line_10_A10_Line_13 {
+	fill: transparent;
+	stroke: rgb(255, 52, 52);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10_A10_Line_13 {
+	overflow: visible;
+	position: absolute;
+	top: 175.768px;
+	left: 10.5px;
+	width: 255px;
+	height: 1px;
+}
+#Shop_____Search_____Notificati {
+	position: absolute;
+	left: 473px;
+	top: 26px;
+	overflow: visible;
+	width: 575px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Logout {
+	position: absolute;
+	left: 1331px;
+	top: 26px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
