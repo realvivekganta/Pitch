@@ -70,10 +70,10 @@ body {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
-	top: 245.169px;
+	top: 245.17px;
 	left: 61.457px;
 	width: 1395.542px;
-	height: 393.036px;
+	height: 393.035px;
 }
 #Rectangle_749 {
 	fill: rgba(255,52,52,1);
@@ -152,12 +152,12 @@ body {
 	font-size: 23px;
 	color: rgba(0,0,0,1);
 }
-#Pitch_Picks_of_the_day {
+#Deals_of_the_Day {
 	position: absolute;
 	left: 68px;
-	top: 121px;
+	top: 119px;
 	overflow: visible;
-	width: 705px;
+	width: 529px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Source Sans Pro;
@@ -195,7 +195,7 @@ body {
 	width: 30px;
 	height: 30px;
 	left: 349px;
-	top: 855.392px;
+	top: 855.393px;
 }
 #Line_9 {
 	fill: transparent;
@@ -212,7 +212,7 @@ body {
 	top: 882.101px;
 	left: 372.5px;
 	width: 9.785px;
-	height: 12.02px;
+	height: 12.019px;
 }
 #Power_Your_Business {
 	position: absolute;
@@ -272,7 +272,7 @@ body {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
@@ -326,7 +326,7 @@ body {
 }
 #Product_type {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -368,7 +368,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_2 {
+#Product_A8_SymbolInstance_2 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -376,7 +376,7 @@ body {
 	top: 1031.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_5 {
+#BG_A8_Rectangle_5 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -386,7 +386,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_5 {
+.BG_A8_Rectangle_5 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -394,15 +394,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_3 {
+#product_detail_A8_Group_3 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A10_Text_12 {
+#Product_name_A8_Text_12 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -416,7 +416,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_4 {
+#btn_buy_A8_Group_4 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -424,10 +424,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_6 {
+#Rectangle_166_A8_Rectangle_6 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_6 {
+.Rectangle_166_A8_Rectangle_6 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -435,7 +435,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_13 {
+#View_A8_Text_13 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -450,9 +450,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_14 {
+#Product_type_A8_Text_14 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -465,10 +465,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_4 {
+#Heart_A8_Path_4 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_4 {
+.Heart_A8_Path_4 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -477,7 +477,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_3 {
+#Line_10_A8_Line_3 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -486,7 +486,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_3 {
+.Line_10_A8_Line_3 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -494,7 +494,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_3 {
+#Product_A8_SymbolInstance_3 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -502,7 +502,7 @@ body {
 	top: 1031.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_7 {
+#BG_A8_Rectangle_7 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -512,7 +512,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_7 {
+.BG_A8_Rectangle_7 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -520,15 +520,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_5 {
+#product_detail_A8_Group_5 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A10_Text_15 {
+#Product_name_A8_Text_15 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -542,7 +542,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_6 {
+#btn_buy_A8_Group_6 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -550,10 +550,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_8 {
+#Rectangle_166_A8_Rectangle_8 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_8 {
+.Rectangle_166_A8_Rectangle_8 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -561,7 +561,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_16 {
+#View_A8_Text_16 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -576,9 +576,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_17 {
+#Product_type_A8_Text_17 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -591,10 +591,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_5 {
+#Heart_A8_Path_5 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_5 {
+.Heart_A8_Path_5 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -603,7 +603,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_4 {
+#Line_10_A8_Line_4 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -612,7 +612,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_4 {
+.Line_10_A8_Line_4 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -620,7 +620,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_4 {
+#Product_A8_SymbolInstance_4 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -628,7 +628,7 @@ body {
 	top: 1031.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_9 {
+#BG_A8_Rectangle_9 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -638,7 +638,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_9 {
+.BG_A8_Rectangle_9 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -646,15 +646,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_7 {
+#product_detail_A8_Group_7 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A10_Text_18 {
+#Product_name_A8_Text_18 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -668,7 +668,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_8 {
+#btn_buy_A8_Group_8 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -676,10 +676,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_10 {
+#Rectangle_166_A8_Rectangle_10 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_10 {
+.Rectangle_166_A8_Rectangle_10 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -687,7 +687,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_19 {
+#View_A8_Text_19 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -702,9 +702,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_20 {
+#Product_type_A8_Text_20 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -717,10 +717,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_6 {
+#Heart_A8_Path_6 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_6 {
+.Heart_A8_Path_6 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -729,7 +729,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_5 {
+#Line_10_A8_Line_5 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -738,7 +738,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_5 {
+.Line_10_A8_Line_5 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -760,7 +760,7 @@ body {
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#Product_A10_SymbolInstance_5 {
+#Product_A8_SymbolInstance_5 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -768,7 +768,7 @@ body {
 	top: 1332.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_11 {
+#BG_A8_Rectangle_11 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -778,7 +778,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_11 {
+.BG_A8_Rectangle_11 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -786,11 +786,11 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_9 {
+#product_detail_A8_Group_9 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
@@ -808,7 +808,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_10 {
+#btn_buy_A8_Group_10 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -816,10 +816,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_12 {
+#Rectangle_166_A8_Rectangle_12 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_12 {
+.Rectangle_166_A8_Rectangle_12 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -827,7 +827,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_23 {
+#View_A8_Text_23 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -844,7 +844,7 @@ body {
 }
 #Service_type {
 	position: absolute;
-	left: 4.096px;
+	left: 4.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 47px;
@@ -857,10 +857,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_7 {
+#Heart_A8_Path_7 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_7 {
+.Heart_A8_Path_7 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -869,7 +869,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_6 {
+#Line_10_A8_Line_6 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -878,7 +878,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_6 {
+.Line_10_A8_Line_6 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -886,7 +886,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#See_More_A10_Text_25 {
+#See_More_A8_Text_25 {
 	position: absolute;
 	left: 1138px;
 	top: 1291px;
@@ -901,7 +901,7 @@ body {
 	color: rgba(0,0,0,1);
 	text-decoration: true;
 }
-#Product_A10_SymbolInstance_6 {
+#Product_A8_SymbolInstance_6 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -909,7 +909,7 @@ body {
 	top: 1332.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_13 {
+#BG_A8_Rectangle_13 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -919,7 +919,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_13 {
+.BG_A8_Rectangle_13 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -927,15 +927,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_11 {
+#product_detail_A8_Group_11 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Service_name_A10_Text_26 {
+#Service_name_A8_Text_26 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -949,7 +949,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_12 {
+#btn_buy_A8_Group_12 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -957,10 +957,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_14 {
+#Rectangle_166_A8_Rectangle_14 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_14 {
+.Rectangle_166_A8_Rectangle_14 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -968,7 +968,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_27 {
+#View_A8_Text_27 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -983,9 +983,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Service_type_A10_Text_28 {
+#Service_type_A8_Text_28 {
 	position: absolute;
-	left: 4.096px;
+	left: 4.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 47px;
@@ -998,10 +998,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_8 {
+#Heart_A8_Path_8 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_8 {
+.Heart_A8_Path_8 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1010,7 +1010,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_7 {
+#Line_10_A8_Line_7 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1019,7 +1019,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_7 {
+.Line_10_A8_Line_7 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -1027,7 +1027,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_7 {
+#Product_A8_SymbolInstance_7 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -1035,7 +1035,7 @@ body {
 	top: 1332.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_15 {
+#BG_A8_Rectangle_15 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1045,7 +1045,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_15 {
+.BG_A8_Rectangle_15 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -1053,15 +1053,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_13 {
+#product_detail_A8_Group_13 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Service_name_A10_Text_29 {
+#Service_name_A8_Text_29 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1075,7 +1075,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_14 {
+#btn_buy_A8_Group_14 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1083,10 +1083,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_16 {
+#Rectangle_166_A8_Rectangle_16 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_16 {
+.Rectangle_166_A8_Rectangle_16 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1094,7 +1094,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_30 {
+#View_A8_Text_30 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1109,9 +1109,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Service_type_A10_Text_31 {
+#Service_type_A8_Text_31 {
 	position: absolute;
-	left: 4.096px;
+	left: 4.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 47px;
@@ -1124,10 +1124,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_9 {
+#Heart_A8_Path_9 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_9 {
+.Heart_A8_Path_9 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1136,7 +1136,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_8 {
+#Line_10_A8_Line_8 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1145,7 +1145,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_8 {
+.Line_10_A8_Line_8 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -1153,7 +1153,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_8 {
+#Product_A8_SymbolInstance_8 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -1161,7 +1161,7 @@ body {
 	top: 1332.741px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_17 {
+#BG_A8_Rectangle_17 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1171,7 +1171,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_17 {
+.BG_A8_Rectangle_17 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -1179,15 +1179,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_15 {
+#product_detail_A8_Group_15 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
-	left: 23.904px;
+	left: 23.905px;
 	top: 161.259px;
 	overflow: visible;
 }
-#Service_name_A10_Text_32 {
+#Service_name_A8_Text_32 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1201,7 +1201,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_16 {
+#btn_buy_A8_Group_16 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1209,10 +1209,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_18 {
+#Rectangle_166_A8_Rectangle_18 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_18 {
+.Rectangle_166_A8_Rectangle_18 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1220,7 +1220,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_33 {
+#View_A8_Text_33 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1235,9 +1235,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Service_type_A10_Text_34 {
+#Service_type_A8_Text_34 {
 	position: absolute;
-	left: 4.096px;
+	left: 4.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 47px;
@@ -1250,10 +1250,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_10 {
+#Heart_A8_Path_10 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_10 {
+.Heart_A8_Path_10 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1262,7 +1262,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_9 {
+#Line_10_A8_Line_9 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1271,7 +1271,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_9 {
+.Line_10_A8_Line_9 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -1279,7 +1279,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_9 {
+#Product_A8_SymbolInstance_9 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -1287,7 +1287,7 @@ body {
 	top: 308.732px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_19 {
+#BG_A8_Rectangle_19 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1297,7 +1297,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_19 {
+.BG_A8_Rectangle_19 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -1305,15 +1305,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_17 {
+#product_detail_A8_Group_17 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
-	left: 24.904px;
+	left: 24.905px;
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A10_Text_35 {
+#Product_name_A8_Text_35 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1327,7 +1327,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_18 {
+#btn_buy_A8_Group_18 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1335,10 +1335,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_20 {
+#Rectangle_166_A8_Rectangle_20 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_20 {
+.Rectangle_166_A8_Rectangle_20 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1346,7 +1346,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_36 {
+#View_A8_Text_36 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1361,9 +1361,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_37 {
+#Product_type_A8_Text_37 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -1376,10 +1376,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_11 {
+#Heart_A8_Path_11 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_11 {
+.Heart_A8_Path_11 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1388,7 +1388,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_10 {
+#Line_10_A8_Line_10 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1397,7 +1397,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_10 {
+.Line_10_A8_Line_10 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -1405,7 +1405,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_10 {
+#Product_A8_SymbolInstance_10 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -1413,7 +1413,7 @@ body {
 	top: 308.732px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_21 {
+#BG_A8_Rectangle_21 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1423,7 +1423,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_21 {
+.BG_A8_Rectangle_21 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -1431,15 +1431,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_19 {
+#product_detail_A8_Group_19 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
-	left: 24.904px;
+	left: 24.905px;
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A10_Text_38 {
+#Product_name_A8_Text_38 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1453,7 +1453,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_20 {
+#btn_buy_A8_Group_20 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1461,10 +1461,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_22 {
+#Rectangle_166_A8_Rectangle_22 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_22 {
+.Rectangle_166_A8_Rectangle_22 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1472,7 +1472,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_39 {
+#View_A8_Text_39 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1487,9 +1487,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_40 {
+#Product_type_A8_Text_40 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -1502,10 +1502,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_12 {
+#Heart_A8_Path_12 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_12 {
+.Heart_A8_Path_12 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1514,7 +1514,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_11 {
+#Line_10_A8_Line_11 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1523,7 +1523,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_11 {
+.Line_10_A8_Line_11 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -1531,7 +1531,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_11 {
+#Product_A8_SymbolInstance_11 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -1539,7 +1539,7 @@ body {
 	top: 308.732px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_23 {
+#BG_A8_Rectangle_23 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1549,7 +1549,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_23 {
+.BG_A8_Rectangle_23 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -1557,15 +1557,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_21 {
+#product_detail_A8_Group_21 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
-	left: 24.904px;
+	left: 24.905px;
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A10_Text_41 {
+#Product_name_A8_Text_41 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1579,7 +1579,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_22 {
+#btn_buy_A8_Group_22 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1587,10 +1587,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_24 {
+#Rectangle_166_A8_Rectangle_24 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_24 {
+.Rectangle_166_A8_Rectangle_24 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1598,7 +1598,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_42 {
+#View_A8_Text_42 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1613,9 +1613,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_43 {
+#Product_type_A8_Text_43 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -1628,10 +1628,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_13 {
+#Heart_A8_Path_13 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_13 {
+.Heart_A8_Path_13 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1640,7 +1640,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_12 {
+#Line_10_A8_Line_12 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1649,7 +1649,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_12 {
+.Line_10_A8_Line_12 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -1657,7 +1657,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Product_A10_SymbolInstance_12 {
+#Product_A8_SymbolInstance_12 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -1665,7 +1665,7 @@ body {
 	top: 308.732px;
 	overflow: visible;
 }
-#BG_A10_Rectangle_25 {
+#BG_A8_Rectangle_25 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -1675,7 +1675,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A10_Rectangle_25 {
+.BG_A8_Rectangle_25 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -1683,15 +1683,15 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A10_Group_23 {
+#product_detail_A8_Group_23 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
-	left: 24.904px;
+	left: 24.905px;
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A10_Text_44 {
+#Product_name_A8_Text_44 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -1705,7 +1705,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A10_Group_24 {
+#btn_buy_A8_Group_24 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -1713,10 +1713,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A10_Rectangle_26 {
+#Rectangle_166_A8_Rectangle_26 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A10_Rectangle_26 {
+.Rectangle_166_A8_Rectangle_26 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -1724,7 +1724,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A10_Text_45 {
+#View_A8_Text_45 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -1739,9 +1739,9 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A10_Text_46 {
+#Product_type_A8_Text_46 {
 	position: absolute;
-	left: 3.096px;
+	left: 3.095px;
 	top: 19.713px;
 	overflow: visible;
 	width: 49px;
@@ -1754,10 +1754,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A10_Path_14 {
+#Heart_A8_Path_14 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A10_Path_14 {
+.Heart_A8_Path_14 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1766,7 +1766,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A10_Line_13 {
+#Line_10_A8_Line_13 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -1775,7 +1775,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A10_Line_13 {
+.Line_10_A8_Line_13 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -1783,12 +1783,12 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Shop_____Search_____Notificati {
+#Logout {
 	position: absolute;
-	left: 473px;
+	left: 1331px;
 	top: 26px;
 	overflow: visible;
-	width: 575px;
+	width: 78px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Source Sans Pro;
@@ -1797,12 +1797,12 @@ body {
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Logout {
+#Shop_____Dashboard_____Profile {
 	position: absolute;
-	left: 1331px;
+	left: 606px;
 	top: 26px;
 	overflow: visible;
-	width: 78px;
+	width: 309px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Source Sans Pro;

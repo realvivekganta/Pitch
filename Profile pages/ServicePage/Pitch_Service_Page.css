@@ -97,7 +97,7 @@ body {
 	width: 596.817px;
 	height: 275.704px;
 }
-#Lance_Service_LanceCorp__Inc {
+#Lance_Service_ {
 	position: absolute;
 	left: 703px;
 	top: 125px;
@@ -138,8 +138,8 @@ body {
 }
 #Group_251 {
 	position: absolute;
-	width: 96px;
-	height: 19px;
+	width: 95.307px;
+	height: 15.693px;
 	left: 0px;
 	top: 1px;
 	overflow: visible;
@@ -154,7 +154,7 @@ body {
 	top: 0px;
 	left: 0px;
 	width: 14.78px;
-	height: 19px;
+	height: 15.693px;
 }
 #Path_333 {
 	fill: rgba(255,0,0,1);
@@ -164,9 +164,9 @@ body {
 	overflow: visible;
 	position: absolute;
 	top: 0px;
-	left: 20.305px;
+	left: 20.132px;
 	width: 14.78px;
-	height: 19px;
+	height: 15.693px;
 }
 #Path_334 {
 	fill: rgba(255,0,0,1);
@@ -176,9 +176,9 @@ body {
 	overflow: visible;
 	position: absolute;
 	top: 0px;
-	left: 40.61px;
+	left: 40.263px;
 	width: 14.78px;
-	height: 19px;
+	height: 15.693px;
 }
 #Path_335 {
 	fill: rgba(255,0,0,1);
@@ -188,9 +188,9 @@ body {
 	overflow: visible;
 	position: absolute;
 	top: 0px;
-	left: 60.915px;
+	left: 60.395px;
 	width: 14.78px;
-	height: 19px;
+	height: 15.693px;
 }
 #Path_336 {
 	fill: rgba(173,173,173,1);
@@ -200,9 +200,9 @@ body {
 	overflow: visible;
 	position: absolute;
 	top: 0px;
-	left: 81.22px;
+	left: 80.527px;
 	width: 14.78px;
-	height: 19px;
+	height: 15.693px;
 }
 #Path_356 {
 	fill: rgba(255,52,52,1);
@@ -239,20 +239,6 @@ body {
 	left: 132.529px;
 	width: 1252.971px;
 	height: 1px;
-}
-#Demo {
-	position: absolute;
-	left: 867px;
-	top: 357px;
-	overflow: visible;
-	width: 50px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Source Sans Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 19px;
-	color: rgba(242,233,233,1);
 }
 #Intro {
 	position: absolute;
@@ -576,7 +562,7 @@ body {
 	top: 1557px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_4 {
+#BG_A21_Rectangle_4 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(0, 0, 0);
@@ -586,7 +572,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_4 {
+.BG_A21_Rectangle_4 {
 	position: absolute;
 	overflow: visible;
 	width: 300.042px;
@@ -879,7 +865,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#Pricing_A18_Group_12 {
+#Pricing_A21_Group_12 {
 	position: absolute;
 	width: 288.169px;
 	height: 474.097px;
@@ -887,7 +873,7 @@ body {
 	top: 1557px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_6 {
+#BG_A21_Rectangle_6 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(0, 0, 0);
@@ -897,7 +883,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_6 {
+.BG_A21_Rectangle_6 {
 	position: absolute;
 	overflow: visible;
 	width: 305.425px;
@@ -905,7 +891,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#btn_tryit_A18_Group_13 {
+#btn_tryit_A21_Group_13 {
 	position: absolute;
 	width: 287.425px;
 	height: 50.166px;
@@ -913,10 +899,10 @@ body {
 	top: 423.931px;
 	overflow: visible;
 }
-#Rectangle_737_A18_Rectangle_7 {
+#Rectangle_737_A21_Rectangle_7 {
 	fill: rgba(255,101,101,1);
 }
-.Rectangle_737_A18_Rectangle_7 {
+.Rectangle_737_A21_Rectangle_7 {
 	position: absolute;
 	overflow: visible;
 	width: 287.425px;
@@ -924,7 +910,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#Try_it_now_A18_Text_15 {
+#Try_it_now_A21_Text_14 {
 	position: absolute;
 	left: 112.64px;
 	top: 16.483px;
@@ -938,7 +924,7 @@ body {
 	font-size: 12px;
 	color: rgba(255,255,255,1);
 }
-#list_A18_Group_14 {
+#list_A21_Group_14 {
 	position: absolute;
 	width: 288.169px;
 	height: 198.142px;
@@ -946,7 +932,7 @@ body {
 	top: 226.134px;
 	overflow: visible;
 }
-#Path_351_A18_Path_30 {
+#Path_351_A21_Path_30 {
 	fill: rgba(245,246,250,1);
 	stroke: rgb(0, 0, 0);
 	stroke-width: 1px;
@@ -955,7 +941,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_351_A18_Path_30 {
+.Path_351_A21_Path_30 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -964,7 +950,7 @@ body {
 	width: 287.425px;
 	height: 197.798px;
 }
-#Path_324_A18_Path_31 {
+#Path_324_A21_Path_31 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -973,7 +959,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_324_A18_Path_31 {
+.Path_324_A21_Path_31 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -982,7 +968,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_326_A18_Path_32 {
+#Path_326_A21_Path_32 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -991,7 +977,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_326_A18_Path_32 {
+.Path_326_A21_Path_32 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1000,7 +986,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_327_A18_Path_33 {
+#Path_327_A21_Path_33 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1009,7 +995,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_327_A18_Path_33 {
+.Path_327_A21_Path_33 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1018,7 +1004,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_328_A18_Path_34 {
+#Path_328_A21_Path_34 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1027,7 +1013,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_328_A18_Path_34 {
+.Path_328_A21_Path_34 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1036,7 +1022,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_329_A18_Path_35 {
+#Path_329_A21_Path_35 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1045,7 +1031,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_329_A18_Path_35 {
+.Path_329_A21_Path_35 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1054,7 +1040,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_330_A18_Path_36 {
+#Path_330_A21_Path_36 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1063,7 +1049,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_330_A18_Path_36 {
+.Path_330_A21_Path_36 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1072,7 +1058,7 @@ body {
 	width: 288.169px;
 	height: 1px;
 }
-#Path_325_A18_Path_37 {
+#Path_325_A21_Path_37 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1081,7 +1067,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_325_A18_Path_37 {
+.Path_325_A21_Path_37 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1106,7 +1092,7 @@ body {
 	font-size: 15px;
 	color: rgba(67,66,93,1);
 }
-#details_A18_Group_15 {
+#details_A21_Group_15 {
 	position: absolute;
 	width: 191.099px;
 	height: 170.031px;
@@ -1114,7 +1100,7 @@ body {
 	top: 35.116px;
 	overflow: visible;
 }
-#FREE_A18_Text_17 {
+#FREE_A21_Text_16 {
 	position: absolute;
 	left: 79.236px;
 	top: 0px;
@@ -1128,7 +1114,7 @@ body {
 	font-size: 10px;
 	color: rgba(255,101,101,1);
 }
-#per__month_A18_Text_18 {
+#per__month_A21_Text_17 {
 	position: absolute;
 	left: 113.417px;
 	top: 84.565px;
@@ -1190,7 +1176,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#Pricing_A18_Group_16 {
+#Pricing_A21_Group_16 {
 	position: absolute;
 	width: 269.932px;
 	height: 471.48px;
@@ -1198,7 +1184,7 @@ body {
 	top: 1559.842px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_8 {
+#BG_A21_Rectangle_8 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(0, 0, 0);
@@ -1208,7 +1194,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_8 {
+.BG_A21_Rectangle_8 {
 	position: absolute;
 	overflow: visible;
 	width: 287.235px;
@@ -1216,7 +1202,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#btn_tryit_A18_Group_17 {
+#btn_tryit_A21_Group_17 {
 	position: absolute;
 	width: 269.235px;
 	height: 49.889px;
@@ -1224,10 +1210,10 @@ body {
 	top: 421.591px;
 	overflow: visible;
 }
-#Rectangle_737_A18_Rectangle_9 {
+#Rectangle_737_A21_Rectangle_9 {
 	fill: rgba(255,101,101,1);
 }
-.Rectangle_737_A18_Rectangle_9 {
+.Rectangle_737_A21_Rectangle_9 {
 	position: absolute;
 	overflow: visible;
 	width: 269.235px;
@@ -1235,7 +1221,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#Try_it_now_A18_Text_22 {
+#Try_it_now_A21_Text_21 {
 	position: absolute;
 	left: 105.511px;
 	top: 16.393px;
@@ -1249,7 +1235,7 @@ body {
 	font-size: 12px;
 	color: rgba(255,255,255,1);
 }
-#list_A18_Group_18 {
+#list_A21_Group_18 {
 	position: absolute;
 	width: 269.932px;
 	height: 207.889px;
@@ -1257,7 +1243,7 @@ body {
 	top: 213.702px;
 	overflow: visible;
 }
-#Path_351_A18_Path_38 {
+#Path_351_A21_Path_38 {
 	fill: rgba(245,246,250,1);
 	stroke: rgb(0, 0, 0);
 	stroke-width: 1px;
@@ -1266,7 +1252,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_351_A18_Path_38 {
+.Path_351_A21_Path_38 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1275,7 +1261,7 @@ body {
 	width: 269.235px;
 	height: 207.529px;
 }
-#Path_324_A18_Path_39 {
+#Path_324_A21_Path_39 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1284,7 +1270,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_324_A18_Path_39 {
+.Path_324_A21_Path_39 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1293,7 +1279,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_326_A18_Path_40 {
+#Path_326_A21_Path_40 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1302,7 +1288,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_326_A18_Path_40 {
+.Path_326_A21_Path_40 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1311,7 +1297,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_327_A18_Path_41 {
+#Path_327_A21_Path_41 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1320,7 +1306,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_327_A18_Path_41 {
+.Path_327_A21_Path_41 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1329,7 +1315,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_328_A18_Path_42 {
+#Path_328_A21_Path_42 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1338,7 +1324,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_328_A18_Path_42 {
+.Path_328_A21_Path_42 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1347,7 +1333,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_329_A18_Path_43 {
+#Path_329_A21_Path_43 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1356,7 +1342,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_329_A18_Path_43 {
+.Path_329_A21_Path_43 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1365,7 +1351,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_330_A18_Path_44 {
+#Path_330_A21_Path_44 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1374,7 +1360,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_330_A18_Path_44 {
+.Path_330_A21_Path_44 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1383,7 +1369,7 @@ body {
 	width: 269.932px;
 	height: 1px;
 }
-#Path_325_A18_Path_45 {
+#Path_325_A21_Path_45 {
 	fill: transparent;
 	stroke: rgb(246, 246, 246);
 	stroke-width: 1px;
@@ -1392,7 +1378,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_325_A18_Path_45 {
+.Path_325_A21_Path_45 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1417,7 +1403,7 @@ body {
 	font-size: 15px;
 	color: rgba(67,66,93,1);
 }
-#details_A18_Group_19 {
+#details_A21_Group_19 {
 	position: absolute;
 	width: 179.005px;
 	height: 165.264px;
@@ -1425,7 +1411,7 @@ body {
 	top: 34.923px;
 	overflow: visible;
 }
-#FREE_A18_Text_24 {
+#FREE_A21_Text_23 {
 	position: absolute;
 	left: 74.222px;
 	top: 0px;
@@ -1439,7 +1425,7 @@ body {
 	font-size: 9px;
 	color: rgba(255,101,101,1);
 }
-#per__month_A18_Text_25 {
+#per__month_A21_Text_24 {
 	position: absolute;
 	left: 106.239px;
 	top: 84.099px;
@@ -1546,16 +1532,16 @@ body {
 }
 #Cons________________________Ex {
 	position: absolute;
-	left: 436px;
-	top: 2355px;
+	left: 455px;
+	top: 2358px;
 	overflow: visible;
-	width: 189px;
+	width: 151px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Source Sans Pro;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 12px;
 	color: rgba(0,0,0,1);
 	text-decoration: true;
 }
@@ -1567,10 +1553,10 @@ body {
 	top: 2314px;
 	overflow: visible;
 }
-#Path_332_A18_Path_46 {
+#Path_332_A21_Path_46 {
 	fill: rgba(255,0,0,1);
 }
-.Path_332_A18_Path_46 {
+.Path_332_A21_Path_46 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1579,10 +1565,10 @@ body {
 	width: 14.78px;
 	height: 19px;
 }
-#Path_333_A18_Path_47 {
+#Path_333_A21_Path_47 {
 	fill: rgba(255,0,0,1);
 }
-.Path_333_A18_Path_47 {
+.Path_333_A21_Path_47 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1591,10 +1577,10 @@ body {
 	width: 14.78px;
 	height: 19px;
 }
-#Path_334_A18_Path_48 {
+#Path_334_A21_Path_48 {
 	fill: rgba(255,0,0,1);
 }
-.Path_334_A18_Path_48 {
+.Path_334_A21_Path_48 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1603,10 +1589,10 @@ body {
 	width: 14.78px;
 	height: 19px;
 }
-#Path_335_A18_Path_49 {
+#Path_335_A21_Path_49 {
 	fill: rgba(255,0,0,1);
 }
-.Path_335_A18_Path_49 {
+.Path_335_A21_Path_49 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1615,10 +1601,10 @@ body {
 	width: 14.78px;
 	height: 19px;
 }
-#Path_336_A18_Path_50 {
+#Path_336_A21_Path_50 {
 	fill: rgba(173,173,173,1);
 }
-.Path_336_A18_Path_50 {
+.Path_336_A21_Path_50 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -1731,7 +1717,7 @@ body {
 }
 #Contact {
 	position: absolute;
-	left: 1266px;
+	left: 1253px;
 	top: 357px;
 	overflow: visible;
 	width: 66px;
@@ -1773,20 +1759,6 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 37px;
-	color: rgba(255,255,255,1);
-}
-#Shop_____Search_____Notificati {
-	position: absolute;
-	left: 473px;
-	top: 26px;
-	overflow: visible;
-	width: 575px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Source Sans Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #Logout {
@@ -1922,7 +1894,7 @@ body {
 	color: rgba(0,0,0,1);
 }
 #Ellipse_43 {
-	fill: url(#Ellipse_43_A18_Ellipse_7_pattern);
+	fill: url(#Ellipse_43_A21_Ellipse_7_pattern);
 	stroke: rgb(112, 112, 112);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1938,7 +1910,7 @@ body {
 	left: 196px;
 	top: 2280px;
 }
-#See_More_A18_Text_44 {
+#See_More_A21_Text_42 {
 	position: absolute;
 	left: 1313px;
 	top: 2182px;
@@ -1971,7 +1943,7 @@ body {
 	width: 1252.971px;
 	height: 1px;
 }
-#See_More_A18_Text_45 {
+#See_More_A21_Text_43 {
 	position: absolute;
 	left: 1363px;
 	top: 2667px;
@@ -1986,7 +1958,7 @@ body {
 	color: rgba(0,0,0,1);
 	text-decoration: true;
 }
-#Product_A18_SymbolInstance_2 {
+#Product_A21_SymbolInstance_2 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -1994,7 +1966,7 @@ body {
 	top: 2728.741px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_10 {
+#BG_A21_Rectangle_10 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2004,7 +1976,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_10 {
+.BG_A21_Rectangle_10 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -2112,7 +2084,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A18_SymbolInstance_3 {
+#Product_A21_SymbolInstance_3 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -2120,7 +2092,7 @@ body {
 	top: 2728.741px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_12 {
+#BG_A21_Rectangle_12 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2130,7 +2102,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_12 {
+.BG_A21_Rectangle_12 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -2138,7 +2110,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_23 {
+#product_detail_A21_Group_23 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
@@ -2146,7 +2118,7 @@ body {
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A18_Text_49 {
+#Product_name_A21_Text_47 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2160,7 +2132,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_24 {
+#btn_buy_A21_Group_24 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2168,10 +2140,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_13 {
+#Rectangle_166_A21_Rectangle_13 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_13 {
+.Rectangle_166_A21_Rectangle_13 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2179,7 +2151,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_50 {
+#View_A21_Text_48 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2194,7 +2166,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_51 {
+#Product_type_A21_Text_49 {
 	position: absolute;
 	left: 3.095px;
 	top: 19.713px;
@@ -2209,10 +2181,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_56 {
+#Heart_A21_Path_56 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_56 {
+.Heart_A21_Path_56 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2221,7 +2193,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_3 {
+#Line_10_A21_Line_3 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2230,7 +2202,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_3 {
+.Line_10_A21_Line_3 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -2238,7 +2210,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A18_SymbolInstance_4 {
+#Product_A21_SymbolInstance_4 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -2246,7 +2218,7 @@ body {
 	top: 2728.741px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_14 {
+#BG_A21_Rectangle_14 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2256,7 +2228,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_14 {
+.BG_A21_Rectangle_14 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -2264,7 +2236,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_25 {
+#product_detail_A21_Group_25 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
@@ -2272,7 +2244,7 @@ body {
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A18_Text_52 {
+#Product_name_A21_Text_50 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2286,7 +2258,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_26 {
+#btn_buy_A21_Group_26 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2294,10 +2266,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_15 {
+#Rectangle_166_A21_Rectangle_15 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_15 {
+.Rectangle_166_A21_Rectangle_15 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2305,7 +2277,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_53 {
+#View_A21_Text_51 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2320,7 +2292,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_54 {
+#Product_type_A21_Text_52 {
 	position: absolute;
 	left: 3.095px;
 	top: 19.713px;
@@ -2335,10 +2307,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_57 {
+#Heart_A21_Path_57 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_57 {
+.Heart_A21_Path_57 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2347,7 +2319,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_4 {
+#Line_10_A21_Line_4 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2356,7 +2328,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_4 {
+.Line_10_A21_Line_4 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -2364,7 +2336,7 @@ body {
 	width: 210px;
 	height: 1px;
 }
-#Product_A18_SymbolInstance_5 {
+#Product_A21_SymbolInstance_5 {
 	position: absolute;
 	width: 232.834px;
 	height: 223.259px;
@@ -2372,7 +2344,7 @@ body {
 	top: 2728.741px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_16 {
+#BG_A21_Rectangle_16 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2382,7 +2354,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_16 {
+.BG_A21_Rectangle_16 {
 	position: absolute;
 	overflow: visible;
 	width: 228.834px;
@@ -2390,7 +2362,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_27 {
+#product_detail_A21_Group_27 {
 	position: absolute;
 	width: 179.929px;
 	height: 30.713px;
@@ -2398,7 +2370,7 @@ body {
 	top: 161.259px;
 	overflow: visible;
 }
-#Product_name_A18_Text_55 {
+#Product_name_A21_Text_53 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2412,7 +2384,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_28 {
+#btn_buy_A21_Group_28 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2420,10 +2392,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_17 {
+#Rectangle_166_A21_Rectangle_17 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_17 {
+.Rectangle_166_A21_Rectangle_17 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2431,7 +2403,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_56 {
+#View_A21_Text_54 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2446,7 +2418,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_57 {
+#Product_type_A21_Text_55 {
 	position: absolute;
 	left: 3.096px;
 	top: 19.713px;
@@ -2461,10 +2433,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_58 {
+#Heart_A21_Path_58 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_58 {
+.Heart_A21_Path_58 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2473,7 +2445,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_5 {
+#Line_10_A21_Line_5 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2482,7 +2454,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_5 {
+.Line_10_A21_Line_5 {
 	overflow: visible;
 	position: absolute;
 	top: 147.759px;
@@ -2521,7 +2493,7 @@ body {
 	font-size: 19px;
 	color: rgba(255,255,255,1);
 }
-#Product_A18_SymbolInstance_6 {
+#Product_A21_SymbolInstance_6 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -2529,7 +2501,7 @@ body {
 	top: 1037.732px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_19 {
+#BG_A21_Rectangle_19 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2539,7 +2511,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_19 {
+.BG_A21_Rectangle_19 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -2547,7 +2519,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_29 {
+#product_detail_A21_Group_29 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
@@ -2555,7 +2527,7 @@ body {
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A18_Text_59 {
+#Product_name_A21_Text_57 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2569,7 +2541,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_30 {
+#btn_buy_A21_Group_30 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2577,10 +2549,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_20 {
+#Rectangle_166_A21_Rectangle_20 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_20 {
+.Rectangle_166_A21_Rectangle_20 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2588,7 +2560,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_60 {
+#View_A21_Text_58 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2603,7 +2575,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_61 {
+#Product_type_A21_Text_59 {
 	position: absolute;
 	left: 3.095px;
 	top: 19.713px;
@@ -2618,10 +2590,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_59 {
+#Heart_A21_Path_59 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_59 {
+.Heart_A21_Path_59 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2630,7 +2602,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_6 {
+#Line_10_A21_Line_6 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2639,7 +2611,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_6 {
+.Line_10_A21_Line_6 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -2661,7 +2633,7 @@ body {
 	font-size: 50px;
 	color: rgba(255,255,255,1);
 }
-#Product_A18_SymbolInstance_7 {
+#Product_A21_SymbolInstance_7 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -2669,7 +2641,7 @@ body {
 	top: 1039.732px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_21 {
+#BG_A21_Rectangle_21 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2679,7 +2651,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_21 {
+.BG_A21_Rectangle_21 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -2687,7 +2659,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_31 {
+#product_detail_A21_Group_31 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
@@ -2695,7 +2667,7 @@ body {
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A18_Text_63 {
+#Product_name_A21_Text_61 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2709,7 +2681,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_32 {
+#btn_buy_A21_Group_32 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2717,10 +2689,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_22 {
+#Rectangle_166_A21_Rectangle_22 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_22 {
+.Rectangle_166_A21_Rectangle_22 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2728,7 +2700,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_64 {
+#View_A21_Text_62 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2743,7 +2715,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_65 {
+#Product_type_A21_Text_63 {
 	position: absolute;
 	left: 3.095px;
 	top: 19.713px;
@@ -2758,10 +2730,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_60 {
+#Heart_A21_Path_60 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_60 {
+.Heart_A21_Path_60 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2770,7 +2742,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_7 {
+#Line_10_A21_Line_7 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2779,7 +2751,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_7 {
+.Line_10_A21_Line_7 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -2787,7 +2759,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Product_A18_SymbolInstance_8 {
+#Product_A21_SymbolInstance_8 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -2795,7 +2767,7 @@ body {
 	top: 1039.732px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_23 {
+#BG_A21_Rectangle_23 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2805,7 +2777,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_23 {
+.BG_A21_Rectangle_23 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -2813,7 +2785,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_33 {
+#product_detail_A21_Group_33 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
@@ -2821,7 +2793,7 @@ body {
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A18_Text_66 {
+#Product_name_A21_Text_64 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2835,7 +2807,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_34 {
+#btn_buy_A21_Group_34 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2843,10 +2815,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_24 {
+#Rectangle_166_A21_Rectangle_24 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_24 {
+.Rectangle_166_A21_Rectangle_24 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2854,7 +2826,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_67 {
+#View_A21_Text_65 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2869,7 +2841,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_68 {
+#Product_type_A21_Text_66 {
 	position: absolute;
 	left: 3.095px;
 	top: 19.713px;
@@ -2884,10 +2856,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_61 {
+#Heart_A21_Path_61 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_61 {
+.Heart_A21_Path_61 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -2896,7 +2868,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_8 {
+#Line_10_A21_Line_8 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -2905,7 +2877,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_8 {
+.Line_10_A21_Line_8 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -2913,7 +2885,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#Product_A18_SymbolInstance_9 {
+#Product_A21_SymbolInstance_9 {
 	position: absolute;
 	width: 278.93px;
 	height: 265.268px;
@@ -2921,7 +2893,7 @@ body {
 	top: 1039.732px;
 	overflow: visible;
 }
-#BG_A18_Rectangle_25 {
+#BG_A21_Rectangle_25 {
 	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.039));
 	fill: rgba(255,255,255,1);
 	stroke: rgb(255, 52, 52);
@@ -2931,7 +2903,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.BG_A18_Rectangle_25 {
+.BG_A21_Rectangle_25 {
 	position: absolute;
 	overflow: visible;
 	width: 274.93px;
@@ -2939,7 +2911,7 @@ body {
 	left: 9px;
 	top: 7px;
 }
-#product_detail_A18_Group_35 {
+#product_detail_A21_Group_35 {
 	position: absolute;
 	width: 226.025px;
 	height: 30.713px;
@@ -2947,7 +2919,7 @@ body {
 	top: 194.268px;
 	overflow: visible;
 }
-#Product_name_A18_Text_69 {
+#Product_name_A21_Text_67 {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -2961,7 +2933,7 @@ body {
 	font-size: 13px;
 	color: rgba(77,79,92,1);
 }
-#btn_buy_A18_Group_36 {
+#btn_buy_A21_Group_36 {
 	position: absolute;
 	width: 66.712px;
 	height: 25.863px;
@@ -2969,10 +2941,10 @@ body {
 	top: 3.713px;
 	overflow: visible;
 }
-#Rectangle_166_A18_Rectangle_26 {
+#Rectangle_166_A21_Rectangle_26 {
 	fill: rgba(255,52,52,1);
 }
-.Rectangle_166_A18_Rectangle_26 {
+.Rectangle_166_A21_Rectangle_26 {
 	position: absolute;
 	overflow: visible;
 	width: 66.712px;
@@ -2980,7 +2952,7 @@ body {
 	left: 0px;
 	top: 0px;
 }
-#View_A18_Text_70 {
+#View_A21_Text_68 {
 	position: absolute;
 	left: 24.604px;
 	top: 7.5px;
@@ -2995,7 +2967,7 @@ body {
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.02px;
 }
-#Product_type_A18_Text_71 {
+#Product_type_A21_Text_69 {
 	position: absolute;
 	left: 3.096px;
 	top: 19.713px;
@@ -3010,10 +2982,10 @@ body {
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.02px;
 }
-#Heart_A18_Path_62 {
+#Heart_A21_Path_62 {
 	fill: rgba(255,255,255,1);
 }
-.Heart_A18_Path_62 {
+.Heart_A21_Path_62 {
 	transform: matrix(1,0,0,1,0,0);
 	overflow: visible;
 	position: absolute;
@@ -3022,7 +2994,7 @@ body {
 	width: 24px;
 	height: 20px;
 }
-#Line_10_A18_Line_9 {
+#Line_10_A21_Line_9 {
 	fill: transparent;
 	stroke: rgb(255, 52, 52);
 	stroke-width: 1px;
@@ -3031,7 +3003,7 @@ body {
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_10_A18_Line_9 {
+.Line_10_A21_Line_9 {
 	overflow: visible;
 	position: absolute;
 	top: 175.768px;
@@ -3039,7 +3011,7 @@ body {
 	width: 255px;
 	height: 1px;
 }
-#See_More_A18_Text_72 {
+#See_More_A21_Text_70 {
 	position: absolute;
 	left: 1351px;
 	top: 965px;
@@ -3053,4 +3025,46 @@ body {
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 	text-decoration: true;
+}
+#Shop_____Dashboard_____Profile {
+	position: absolute;
+	left: 606px;
+	top: 26px;
+	overflow: visible;
+	width: 309px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Get_a_Quote {
+	position: absolute;
+	left: 859px;
+	top: 357px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(242,233,233,1);
+}
+#LanceCorp__Inc {
+	position: absolute;
+	left: 705px;
+	top: 165px;
+	overflow: hidden;
+	width: 133px;
+	height: 34px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
 }
