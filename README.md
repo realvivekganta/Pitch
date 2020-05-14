@@ -1,2 +1,2 @@
 # Pitch
-Pitch is an advvertising and networking platform for small businesses.
+Pitch is an advertising and networking platform for small businesses.
